@@ -1,12 +1,8 @@
 ﻿/*
-* TRIFLES GAMES
-* www.triflesgames.com
-*
 * Developed by Gökhan KINAY.
 * www.gokhankinay.com.tr
 *
 * Contact,
-* info@triflesgames.com
 * info@gokhankinay.com.tr
 */
 
