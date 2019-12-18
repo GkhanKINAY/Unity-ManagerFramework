@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+* TRIFLES GAMES
+* www.triflesgames.com
+*
+* Developed by Gökhan KINAY.
+* www.gokhankinay.com.tr
+*
+* Contact,
+* info@triflesgames.com
+* info@gokhankinay.com.tr
+*/
+
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;

@@ -1,6 +1,4 @@
-﻿using UnityEngine;
-
-public enum ManagerEvents
+﻿public enum ManagerEvents
 {
 
 }
